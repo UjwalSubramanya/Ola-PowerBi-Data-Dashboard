@@ -1,6 +1,6 @@
 <img width="1415" height="771" alt="image" src="https://github.com/user-attachments/assets/99c0fa4e-9f0c-4a56-a2bd-59add95949dc" />
 
-**Ola-PowerBi-Data-Dashboard and SQL data analysis - **
-An end-to-end interactive Power BI dashboard analysing Ola cab bookings for July, covering ride volumes, revenue, cancellations, vehicle performance, and ratings across 7 vehicle categories.
+**Ola-PowerBi-Data-Dashboard and SQL data analysis**
+ - An end-to-end interactive Power BI dashboard analysing Ola cab bookings for July, covering ride volumes, revenue, cancellations, vehicle performance, and ratings across 7 vehicle categories.
 
-**Files also include SQL queries that contain data analysis and key findings in the ola database.**
+**Files also include SQL queries that contain data analysis and key findings in the ola database along with background image for PowerBi visuals as ppt and jpeg formats**
